@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+}
+#one{
+	color:blue;
+}
+.two{
+	padding-left: 10px;
+}
+.three{
+	background-color: white;
+	text-decoration-color: black;
+}
+*{
+	text-align: center;
+}
